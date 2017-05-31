@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    background: #FF3DAD;
+    color:rebeccapurple;
+}
+img{
+    margin-top: 70px;
+    border: 5px white solid;
+    border-radius: 300px;
+}
+
+ul{
+    padding-left: 320px;
+    padding-right: 320px;
+    list-style: disc;
+}
+ol{
+    padding-left: 320px;
+    padding-right: 320px;
+    list-style: lower-roman;
+}
